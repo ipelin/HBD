@@ -67,8 +67,8 @@ img.birthday {
   font-size: 45px;
 }
 .text p{
-  font-family: serif;
-  font-size: 40px;
+  font-family: monospace;
+  font-size: 35px;
 }
 .space {
   height: 100px;
