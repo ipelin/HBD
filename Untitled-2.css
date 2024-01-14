@@ -29,6 +29,7 @@ background: linear-gradient(to right, #6D6875, #B5838D, #E5989B, #FFB4A2);
   overflow: hidden;
   color:#FFCDB2;
   color:#FFCDB2;
+  position: absolute
 }
 
 @media only screen and (min-width: 1000px) {
